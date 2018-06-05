@@ -1,0 +1,6 @@
+- Web templates düzenlendi.
+  - html, css dosyaları düzenlendi ve klasör/dizin yapısı oluşturuldu.
+- "403 & 404 sunucu hata mesajı" video konu anlatımı yapıldı.
+- Video konu anlatımları youtube'a yüklendi.
+- Oluşturulan web sayfası http://aysecan.me adresine yüklendi.
+- Oluşturulan web sayfası https://github.com/merkurr/AyseCAN/tree/master/Web%20Terminolojileri%20Final%20Projesi alanına atıldı.
